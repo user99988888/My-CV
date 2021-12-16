@@ -1,0 +1,193 @@
+body {
+
+    background-color: #F5F5DC;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+
+
+.nav {
+
+    background-color: #E0CFB1;
+    border-radius: 7px;
+
+}
+
+
+
+main {
+
+    background-color: #E0CFB1;
+    border-radius: 7px;
+    padding: 5px 30px;
+
+}
+
+
+
+.text-div {
+
+    background-color: #D0B084;
+    border-radius: 5px;
+    padding: 1px 10px;
+    margin-bottom: 22px;
+
+}
+
+
+
+.text-div-h1{
+
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    text-align: center;
+
+}
+
+
+
+.text-div-h2{
+
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+    text-align: center;
+
+}
+
+
+
+.text-div-h3{
+
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+
+}
+
+
+
+.text-div-h4{
+
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    text-align: center;
+
+}
+
+
+
+.text-div-p{
+
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+
+}
+
+
+
+.text-div-authorship{
+
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+
+}
+
+
+
+.text-div-communication{
+
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+
+}
+
+
+
+/*
+
+about urls
+
+a {
+
+    color: inherit;
+    text-decoration: none;
+
+}
+
+
+.a-underline:hover,
+.a-underline:visited {
+
+    color: inherit;
+    text-decoration: underline;
+
+}
+
+
+.a-underline:hover {
+
+    opacity: 0.5;
+
+}
+
+
+.a-no-undeline:hover,
+.a-no-underline:visited {
+
+    color: inherit;
+    text-decoration: none;
+
+}
+
+
+.a-no-underline:hover {
+
+    opacity: 0.5;
+
+}
+
+
+
+*/
+
+
+
+ul {
+
+    padding-left: 0px;
+    max-width: 100%;
+    text-align: center;
+
+}
+
+
+
+li {
+
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 15px;
+
+}
+
+
+
+.footer {
+
+    display: flex;
+
+}
+
+
+
+.text-div-authorship,
+.text-div-communication {
+
+    padding-bottom: 0px;
+    margin: 50px auto 5px auto;
+
+}
