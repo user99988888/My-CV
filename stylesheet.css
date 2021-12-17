@@ -172,58 +172,10 @@ main {
 
 .a-underline:visited {
 
-    text-decoration: underline;
-
-}
-
-
-
-/*
-
-about urls
-
-a {
-
-    color: inherit;
-    text-decoration: none;
-
-}
-
-
-.a-underline:hover,
-.a-underline:visited {
-
     color: inherit;
     text-decoration: underline;
 
 }
-
-
-.a-underline:hover {
-
-    opacity: 0.5;
-
-}
-
-
-.a-no-undeline:hover,
-.a-no-underline:visited {
-
-    color: inherit;
-    text-decoration: none;
-
-}
-
-
-.a-no-underline:hover {
-
-    opacity: 0.5;
-
-}
-
-
-
-*/
 
 
 
