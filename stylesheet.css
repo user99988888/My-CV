@@ -1,0 +1,226 @@
+body {
+
+    background-color: #F5F5DC;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+
+
+.nav {
+
+    background-color: #E0CFB1;
+    border-radius: 7px;
+
+}
+
+
+
+main {
+
+    background-color: #E0CFB1;
+    border-radius: 7px;
+    padding: 5px 30px;
+
+}
+
+
+
+.text-div {
+
+    background-color: #d0bb9e;
+    border-radius: 5px;
+    padding: 1px 30px 10px 30px;
+    margin-bottom: 22px;
+
+}
+
+
+
+.text-div-h1{
+
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    text-align: center;
+
+}
+
+
+
+.text-div-h2{
+
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+    text-align: center;
+
+}
+
+
+
+.text-div-h3{
+
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+
+}
+
+
+
+.text-div-h4{
+
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    text-align: center;
+
+}
+
+
+
+.text-div-p{
+
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    text-align: justify;
+
+
+}
+
+
+
+.text-div-authorship{
+
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+
+}
+
+
+
+.text-div-communication{
+
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+
+}
+
+
+
+.header {
+
+    margin: 40px auto;
+
+}
+
+
+
+.top-header {
+
+    margin-bottom: 0px;
+    text-transform: uppercase;
+
+}
+
+
+
+.bottom-header {
+
+    margin-top: 0px;
+    color:rgb(114, 114, 114);
+
+}
+
+
+
+.main-h2 {
+
+    margin: 20px auto;
+
+}
+
+
+
+.a-no-underline-header,
+.a-no-underline-header:hover,
+.a-no-underline-header:visited,
+.a-no-underline-nav,
+.a-no-underline-nav:hover,
+.a-no-underline-nav:visited {
+
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+
+}
+
+
+
+.a-underline,
+.a-underline:visited {
+
+    text-decoration: none;
+    color:rgb(114, 114, 114);
+    cursor: pointer;
+
+}
+
+
+
+.a-underline:hover {
+
+    text-decoration: underline;
+    color:rgb(72, 72, 72);
+
+}
+
+
+
+ul {
+
+    padding-left: 0px;
+    max-width: 100%;
+    text-align: center;
+
+}
+
+
+
+li {
+
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 20px;
+    margin-left: -5px;
+
+}
+
+
+
+li:hover {
+
+    background-color: #d0bb9e;
+    border-radius: 7px;
+
+}
+
+
+
+.footer {
+
+    display: flex;
+
+}
+
+
+
+.text-div-authorship,
+.text-div-communication {
+
+    padding-bottom: 0px;
+    margin: 50px auto 5px auto;
+    color:rgb(114, 114, 114);
+
+}
