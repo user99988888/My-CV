@@ -176,6 +176,24 @@ main {
 
 
 
+.a-underline-p {
+
+    text-decoration: none;
+    color: black;
+
+}
+
+
+.a-underline-p:hover,
+.a-underlile-p:visited {
+
+    text-decoration: underline;
+    color:rgb(72, 72, 72);
+
+}
+
+
+
 ul {
 
     padding-left: 0px;
@@ -224,3 +242,28 @@ li:hover {
     color:rgb(114, 114, 114);
 
 }
+
+
+
+/*
+
+Ошибка: страница находится в разработке.
+
+*/
+
+
+
+.dev {
+
+    text-align: center;
+    margin: 100px auto;
+
+}
+
+
+
+/*
+
+Ошибка: страница находится в разработке.
+
+*/
