@@ -30,9 +30,9 @@ main {
 
 .text-div {
 
-    background-color: #D0B084;
+    background-color: #d0bb9e;
     border-radius: 5px;
-    padding: 1px 10px;
+    padding: 1px 30px 10px 30px;
     margin-bottom: 22px;
 
 }
@@ -82,6 +82,8 @@ main {
 
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
+    text-align: justify;
+
 
 }
 
@@ -100,6 +102,77 @@ main {
 
     font-family: 'Roboto', sans-serif;
     font-size: 12px;
+
+}
+
+
+
+.header {
+
+    margin: 40px auto;
+
+}
+
+
+
+.top-header {
+
+    margin-bottom: 0px;
+    text-transform: uppercase;
+
+}
+
+
+
+.bottom-header {
+
+    margin-top: 0px;
+    color:rgb(114, 114, 114);
+
+}
+
+
+
+.main-h2 {
+
+    margin: 20px auto;
+
+}
+
+
+
+.a-no-underline,
+.a-no-underline:hover,
+.a-underline:visited {
+
+    color: inherit;
+    text-decoration: none;
+    cursor: pointer;
+
+}
+
+
+
+.a-underline {
+
+    text-decoration: none;
+
+}
+
+
+
+.a-underline:hover {
+
+    color: rgb(77, 77, 77);
+    text-decoration: underline;
+
+}
+
+
+
+.a-underline:visited {
+
+    text-decoration: underline;
 
 }
 
@@ -170,7 +243,17 @@ li {
     text-align: center;
     list-style-type: none;
     display: inline-block;
-    padding: 10px 15px;
+    padding: 10px 20px;
+    margin-left: -5px;
+
+}
+
+
+
+li:hover {
+
+    background-color: #d0bb9e;
+    border-radius: 7px;
 
 }
 
@@ -189,5 +272,6 @@ li {
 
     padding-bottom: 0px;
     margin: 50px auto 5px auto;
+    color:rgb(114, 114, 114);
 
 }
