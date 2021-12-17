@@ -145,7 +145,7 @@ main {
 .a-no-underline:hover,
 .a-underline:visited {
 
-    color: inherit;
+    color: rgb(77, 77, 77);
     text-decoration: none;
     cursor: pointer;
 
