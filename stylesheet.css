@@ -145,9 +145,9 @@ main {
 .a-no-underline:hover,
 .a-underline:visited {
 
-    color: rgb(77, 77, 77);
     text-decoration: none;
     cursor: pointer;
+    color: inherit;
 
 }
 
@@ -155,7 +155,6 @@ main {
 
 .a-underline {
 
-    color: rgb(77, 77, 77);
     text-decoration: none;
 
 }
@@ -164,7 +163,6 @@ main {
 
 .a-underline:hover {
 
-    color: rgb(77, 77, 77);
     text-decoration: underline;
 
 }
@@ -173,7 +171,6 @@ main {
 
 .a-underline:visited {
 
-    color: inherit;
     text-decoration: underline;
 
 }
