@@ -1,7 +1,6 @@
 body {
 
     background-color: #F5F5DC;
-    max-width: 700px;
     margin-left: auto;
     margin-right: auto;
 
@@ -316,5 +315,97 @@ ul {
     font-size: 12px;
     text-align: center;
     cursor: pointer;
+
+}
+
+
+
+@media screen and (max-width: 960px) {
+
+    body {
+
+        max-width: 100%;
+
+    }
+    
+}
+
+
+
+@media screen and (min-width: 961px) {
+
+    body {
+
+        max-width: 85%;
+
+    }
+
+}
+
+
+
+@media screen and (min-width: 1280px) {
+
+    body {
+
+        max-width: 60%;
+
+    }
+
+}
+
+
+
+@media screen and (min-width: 1600px) {
+
+    body {
+
+        max-width: 55%
+
+    }
+
+}
+
+
+@media screen and (min-width: 1920px) {
+
+    body {
+
+        max-width: 50%
+
+    }
+
+}
+
+
+@media screen and (min-width: 2560px) {
+
+    body {
+
+        max-width: 40%
+
+    }
+
+}
+
+
+@media screen and (min-width: 2960px) {
+
+    body {
+
+        max-width: 32,5%
+
+    }
+
+}
+
+
+@media screen and (min-width: 3840px) {
+
+    body {
+
+        max-width: 25%
+
+    }
 
 }
