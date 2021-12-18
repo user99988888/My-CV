@@ -9,9 +9,18 @@ body {
 
 
 
-.nav {
+.nav-top {
 
     background-color: #E0CFB1;
+    border-radius: 7px;
+
+}
+
+
+
+.nav-bottom {
+
+    background-color: #d0bb9e;
     border-radius: 7px;
 
 }
@@ -207,6 +216,7 @@ ul {
 li {
 
     font-family: 'Roboto', sans-serif;
+    font-size: 16px;
     text-align: center;
     list-style-type: none;
     display: inline-block;
@@ -217,10 +227,21 @@ li {
 
 
 
-li:hover {
+.nav-top > ul > li:hover {
 
     background-color: #d0bb9e;
     border-radius: 7px;
+    font-size: 18px;
+
+}
+
+
+
+.nav-bottom > ul > li:hover {
+
+    background-color: #E0CFB1;
+    border-radius: 7px;
+    font-size: 18px;
 
 }
 
@@ -244,8 +265,26 @@ li:hover {
 }
 
 
-
 .button {
+
+    display: flex;
+
+}
+
+
+
+.div-button-next,
+.div-button-back {
+
+    margin-bottom: 14px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+
+
+.button-read {
 
     font-family: 'Roboto', sans-serif;
     font-size: 12px;
@@ -263,7 +302,7 @@ li:hover {
 
 
 
-.button:hover {
+.button-read:hover {
 
     background-color: #E0CFB1;
     font-family: 'Roboto', sans-serif;
