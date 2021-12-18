@@ -213,7 +213,7 @@ ul {
 
 
 
-li {
+.nav-top > ul > li {
 
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
@@ -237,11 +237,25 @@ li {
 
 
 
+.nav-bottom > ul > li {
+
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    text-align: center;
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 20px;
+    margin-left: -5px;
+
+}
+
+
+
 .nav-bottom > ul > li:hover {
 
     background-color: #E0CFB1;
     border-radius: 7px;
-    font-size: 18px;
+    font-size: 16px;
 
 }
 
