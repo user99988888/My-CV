@@ -231,7 +231,7 @@ ul {
 
     background-color: #d0bb9e;
     border-radius: 7px;
-    font-size: 18px;
+    font-size: 16px;
 
 }
 
@@ -255,7 +255,7 @@ ul {
 
     background-color: #E0CFB1;
     border-radius: 7px;
-    font-size: 16px;
+    font-size: 14px;
 
 }
 
@@ -275,13 +275,6 @@ ul {
     padding-bottom: 0px;
     margin: 30px auto 5px auto;
     color:rgb(114, 114, 114);
-
-}
-
-
-.button {
-
-    display: flex;
 
 }
 
@@ -320,8 +313,9 @@ ul {
 
     background-color: #E0CFB1;
     font-family: 'Roboto', sans-serif;
-    font-size: 14px;
+    font-size: 12px;
     text-align: center;
+    cursor: pointer;
 
 }
 
