@@ -238,8 +238,37 @@ li:hover {
 .text-div-communication {
 
     padding-bottom: 0px;
-    margin: 50px auto 5px auto;
+    margin: 30px auto 5px auto;
     color:rgb(114, 114, 114);
+
+}
+
+
+
+.button {
+
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    text-align: center;
+    width: 80px;
+    height: 30px;
+    border-radius: 4px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    background-color: #d0bb9e;
+    margin-bottom: 14px;
+
+}
+
+
+
+.button:hover {
+
+    background-color: #E0CFB1;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    text-align: center;
 
 }
 
